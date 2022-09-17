@@ -1,0 +1,4 @@
+What is a switch () statement?
+In computer programming languages, a switch statement is a type of selection
+control mechanism used to allow the value of a variable or expression to change 
+the control flow of program execution via search and map.
